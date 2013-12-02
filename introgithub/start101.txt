@@ -1,0 +1,3 @@
+start out by getting a github account if needed,
+forking the 101 repository,
+clone it to your desktop.
