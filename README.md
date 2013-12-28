@@ -7,13 +7,14 @@ Project #1
 ----------
 
 IOT101 workbook
+===============
 
-meant to accompany the personal object toolkit
+Manual for the personal object toolkit
 
 *collection of Michael Koster Blogposts
 
 *collection of linked in posts on IOT
 
-*OSIOT documents
+*OSIOT documents from defacto effort
 
-*slideshare
+* Koster slideshare related topics
